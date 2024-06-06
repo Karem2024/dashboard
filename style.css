@@ -53,3 +53,13 @@ body {
         margin-left: 0;
     }
 }
+
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40; /* Adjust background color as needed */
+    color: #fff; /* Adjust text color as needed */
+    padding: 10px 0; /* Adjust padding as needed */
+}
